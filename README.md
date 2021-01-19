@@ -1,9 +1,9 @@
 # flutter_mvvm
 
-```
+```yaml
 flutter_mvvm:
     git:
-      url: git@github.com:NX-Flutter/nxpurchase.git
+      url: git@github.com:forJrking/flutter_mvvm.git
       ref: v0.0.1
 ```
 
