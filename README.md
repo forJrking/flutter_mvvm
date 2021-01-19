@@ -3,8 +3,7 @@
 ```yaml
 flutter_mvvm:
     git:
-      url: git@github.com:forJrking/flutter_mvvm.git
-      ref: v0.0.1
+      url: https://github.com/forJrking/flutter_mvvm.git
 ```
 
 

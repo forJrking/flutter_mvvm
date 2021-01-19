@@ -1,8 +1,8 @@
 name: flutter_mvvm
 description: Mvvm Flutter package.
 version: 0.0.1
-author:
-homepage:
+author: forjrking@gmail.com
+homepage: "https://www.google.com"
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
